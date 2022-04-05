@@ -1,0 +1,4 @@
+jupyterlab
+pillow
+openpyxl
+pandas
